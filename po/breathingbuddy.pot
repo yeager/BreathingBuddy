@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026 BreathingBuddy
+# This file is distributed under the same license as the breathingbuddy package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: breathingbuddy 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-16 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "BreathingBuddy"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Choose breathing technique"
+msgstr ""
+
+msgid "Cycles"
+msgstr ""
+
+msgid "Session complete!"
+msgstr ""
+
+msgid "Total sessions"
+msgstr ""
+
+msgid "Total minutes"
+msgstr ""
+
+msgid "Streak (days)"
+msgstr ""
+
+msgid "Favorite technique"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Get ready..."
+msgstr ""
+
+msgid "Well done!"
+msgstr ""
+
+msgid "No sessions yet"
+msgstr ""
+
+msgid "Breathe"
+msgstr ""
+
+msgid "Breathe in"
+msgstr ""
+
+msgid "Hold"
+msgstr ""
+
+msgid "Breathe out"
+msgstr ""
+
+msgid "Breathe in gently"
+msgstr ""

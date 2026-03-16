@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=BreathingBuddy
+Name[sv]=BreathingBuddy
+GenericName=Breathing Exercise
+GenericName[sv]=Andningsträning
+Comment=Guided breathing exercises with visual animations
+Comment[sv]=Guidad andningsträning med visuella animationer
+Exec=breathingbuddy
+Icon=com.github.breathingbuddy
+Terminal=false
+Type=Application
+Categories=GTK;Utility;Health;
+Keywords=breathing;meditation;relaxation;stress;
+Keywords[sv]=andning;meditation;avslappning;stress;
+StartupNotify=true

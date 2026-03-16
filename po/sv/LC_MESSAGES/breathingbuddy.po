@@ -1,0 +1,100 @@
+# Swedish translation for BreathingBuddy.
+# Copyright (C) 2026 BreathingBuddy
+# This file is distributed under the same license as the breathingbuddy package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: breathingbuddy 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-16 00:00+0000\n"
+"PO-Revision-Date: 2026-03-16 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "BreathingBuddy"
+msgstr "BreathingBuddy"
+
+msgid "Start"
+msgstr "Starta"
+
+msgid "Stop"
+msgstr "Stoppa"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Resume"
+msgstr "Fortsätt"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Choose breathing technique"
+msgstr "Välj andningsteknik"
+
+msgid "Cycles"
+msgstr "Cykler"
+
+msgid "Session complete!"
+msgstr "Sessionen klar!"
+
+msgid "Total sessions"
+msgstr "Totala sessioner"
+
+msgid "Total minutes"
+msgstr "Totala minuter"
+
+msgid "Streak (days)"
+msgstr "Svit (dagar)"
+
+msgid "Favorite technique"
+msgstr "Favoritteknik"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Notifications"
+msgstr "Påminnelser"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Dark"
+msgstr "Mörkt"
+
+msgid "Light"
+msgstr "Ljust"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Get ready..."
+msgstr "Gör dig redo..."
+
+msgid "Well done!"
+msgstr "Bra jobbat!"
+
+msgid "No sessions yet"
+msgstr "Inga sessioner ännu"
+
+msgid "Breathe"
+msgstr "Andas"
+
+msgid "Breathe in"
+msgstr "Andas in"
+
+msgid "Hold"
+msgstr "Håll andan"
+
+msgid "Breathe out"
+msgstr "Andas ut"
+
+msgid "Breathe in gently"
+msgstr "Andas in lugnt"
