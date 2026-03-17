@@ -1,0 +1,92 @@
+# Translation file for BreathingBuddy
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "BreathingBuddy"
+msgstr "BreathingBuddy"
+
+msgid "Start"
+msgstr "Starta"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Resume"
+msgstr "Återuppta"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Choose breathing technique"
+msgstr "Välj andningsteknik"
+
+msgid "Cycles"
+msgstr "Cykler"
+
+msgid "Session complete!"
+msgstr "Sessionen är klar!"
+
+msgid "Total sessions"
+msgstr "Totalt antal sessioner"
+
+msgid "Total minutes"
+msgstr "Totalt antal minuter"
+
+msgid "Streak (days)"
+msgstr "Antal i rad (dagar)"
+
+msgid "Favorite technique"
+msgstr "Favoritteknik"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Notifications"
+msgstr "Aviseringar"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Dark"
+msgstr "Mörkt"
+
+msgid "Light"
+msgstr "Ljust"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Get ready..."
+msgstr "Kom igång..."
+
+msgid "Well done!"
+msgstr "Bra jobbat!"
+
+msgid "No sessions yet"
+msgstr "Inga sessioner ännu"
+
+msgid "Breathe"
+msgstr "Andas"
+
+msgid "Breathe in"
+msgstr "Andas in"
+
+msgid "Hold"
+msgstr "Håll andan"
+
+msgid "Breathe out"
+msgstr "Andas ut"
+
+msgid "Breathe in gently"
+msgstr "Andas in långsamt"
+
